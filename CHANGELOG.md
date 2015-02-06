@@ -1,5 +1,8 @@
 #Stackbox Changelog
 
+##0.3.2 (February 6, 2015)
+* Use documentElement instead of body to detect css3 animations
+
 ##0.3.1 (January 16, 2015)
 * Fixed a bug where the close animation failed, because the animation end event handlers were registered twice.
 

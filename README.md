@@ -3,7 +3,7 @@ Stackbox.js
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stebru/stackbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Version 0.3.1
+### Version 0.3.2
 
 A jQuery plugin for creating stackable modal boxes.
 
