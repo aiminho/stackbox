@@ -5,7 +5,7 @@ Stackbox.js
 
 [![Build Status](https://travis-ci.org/stebru/stackbox.svg?branch=master)](https://travis-ci.org/stebru/stackbox)
 
-### Version 0.3.3
+### Version 0.3.4
 
 A jQuery plugin for creating stackable modal boxes.
 
