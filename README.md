@@ -3,11 +3,11 @@ Stackbox.js
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stebru/stackbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Version 0.3.2
+[![Build Status](https://travis-ci.org/stebru/stackbox.svg?branch=master)](https://travis-ci.org/stebru/stackbox)
+
+### Version 0.3.3
 
 A jQuery plugin for creating stackable modal boxes.
-
-[![Build Status](https://travis-ci.org/stebru/stackbox.svg?branch=master)](https://travis-ci.org/stebru/stackbox)
 
 ## [Documentation & Examples](http://stefan.codes/stackbox/ "Stackbox Documentation")
 

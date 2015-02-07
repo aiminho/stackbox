@@ -1,5 +1,8 @@
 #Stackbox Changelog
 
+##0.3.3 (February 7, 2015)
+* Dependency update
+
 ##0.3.2 (February 6, 2015)
 * Use documentElement instead of body to detect css3 animations
 
