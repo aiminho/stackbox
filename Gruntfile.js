@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
-    grunt.file.defaultEncoding = 'utf-8';
+	grunt.file.defaultEncoding = 'utf-8';
 
-    require('time-grunt')(grunt);
+	require('time-grunt')(grunt);
 
-    require('load-grunt-config')(grunt);
+	require('load-grunt-config')(grunt);
 };
