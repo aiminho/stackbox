@@ -1,11 +1,7 @@
 Stackbox.js
 ============
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stebru/stackbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Build Status](https://travis-ci.org/stebru/stackbox.svg?branch=master)](https://travis-ci.org/stebru/stackbox)
-
-[![bitHound Score](https://www.bithound.io/stebru/stackbox/badges/score.svg)](https://www.bithound.io/stebru/stackbox)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stebru/stackbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/stebru/stackbox.svg?branch=master)](https://travis-ci.org/stebru/stackbox) [![bitHound Score](https://www.bithound.io/stebru/stackbox/badges/score.svg)](https://www.bithound.io/stebru/stackbox)
 
 ### Version 0.3.4
 
