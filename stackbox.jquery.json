@@ -21,6 +21,6 @@
   "homepage": "https://github.com/stebru/stackbox",
   "docs": "http://stefan.codes/stackbox/",
   "dependencies": {
-    "jquery": ">=2.0"
+    "jquery": ">=1.0"
   }
 }
