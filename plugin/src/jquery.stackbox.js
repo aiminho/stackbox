@@ -4,7 +4,7 @@
    --------------------------------
    + https://github.com/stebru/stackbox
    + version 0.3.4
-   + Copyright 2014 Stefan Bruvik
+   + Copyright 2014-2015 Stefan Bruvik
    + Licensed under the MIT license
 
    + Documentation: http://stefan.codes/stackbox
