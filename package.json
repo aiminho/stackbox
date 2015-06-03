@@ -28,7 +28,10 @@
 	},
 	"keywords": [
 		"modal",
-		"modalbox"
+		"modalbox",
+		"multiple",
+		"jquery-plugin",
+		"ecosystem:jquery"
 	],
 	"author": "Stefan Bruvik",
 	"license": "MIT",
